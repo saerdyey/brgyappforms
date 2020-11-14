@@ -1,0 +1,6 @@
+#form-container {
+  margin-top: 100px;
+  margin-bottom: 100px;
+  justify-content: space-around;
+  align-items: flex-start;
+}
