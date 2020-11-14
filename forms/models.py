@@ -12,6 +12,7 @@ class Form(models.Model):
     address2 = models.CharField(max_length=100)
     city = models.CharField(max_length=100)
     purpose = models.CharField(max_length=50)
+    isComplete = models.BooleanField(default=False, blank=True, null=True)
 
     def __str__(self):
         return self.fname
