@@ -8,7 +8,7 @@ import picture3 from '../img/picture3.jfif'
 const Hero = () => {
     return(
         <div id="hero">
-            <div id="carouselExampleControls" className="carousel slide" data-ride="carousel">
+            <div id="carouselExampleControls" className="carousel slide" data-ride="carousel" data-interval="3000">
                 <div className="carousel-inner">
                     <div className="carousel-item active">
                         <img className="d-block w-100" src={picture1} alt="First slide"/>

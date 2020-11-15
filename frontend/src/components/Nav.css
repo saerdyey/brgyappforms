@@ -1,3 +1,17 @@
 #navigation {
   width: 100%;
 }
+
+#logo img {
+  width: 100px;
+  border-radius: 50%;
+  margin-right: 10px;
+}
+
+#logo span {
+  font-size: 30px;
+}
+
+li {
+  font-size: 18px;
+}

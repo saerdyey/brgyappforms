@@ -1,19 +1,23 @@
 import React from 'react';
 import './App.css';
-import Form from './components/Form'
 import Nav from './components/Nav'
-import Hero from './components/Hero'
-import Footer from './components/Footer'
+import Home from './components/Home'
+import History from './components/ourbarangay/History'
+
+import { Route, BrowserRouter as Router, Switch } from 'react-router-dom';
 
 class App extends React.Component{
   render(){
     return(
-      <div className="App">
-        <Nav/>
-        <Hero/>
-        {/* <Form/> */}
-        <Footer/>
-      </div>
+      <Router>
+        <div className="App">
+            <Nav/>
+            <Switch>
+              <Route path="/" exact component={Home}/>
+              <Route path="/history" exact component={History}/>
+            </Switch>
+        </div>
+      </Router>
     )
   }
 }
