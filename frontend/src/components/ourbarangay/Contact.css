@@ -1,0 +1,45 @@
+#contact {
+  width: 100%;
+  margin: auto;
+  margin-top: 25vh;
+}
+
+#contact h1,
+h2,
+h3 {
+  text-align: center;
+}
+
+#contact h4,
+p {
+  text-align: start;
+}
+
+.contact-container {
+  width: 80%;
+  margin: auto;
+  padding: 30px;
+  border-radius: 20px;
+  -webkit-box-shadow: 5px 5px 15px 5px rgba(0, 0, 0, 0.5);
+  box-shadow: 5px 5px 15px 5px rgba(0, 0, 0, 0.5);
+  margin-top: 50px;
+}
+
+#contact .flex-container {
+  width: 80%;
+  margin: auto;
+  margin-top: 50px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.google-map-container {
+  flex: 6;
+  margin-right: 30px;
+}
+
+.contact-info {
+  flex: 2;
+  margin-top: 40px;
+}

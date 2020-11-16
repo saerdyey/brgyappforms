@@ -2,7 +2,7 @@ import React, {useState} from 'react';
 
 import './Form.css';
 
-const Form = () => {
+const Form1 = () => {
 
     const [inputs, setInputs] = useState({
         fname:'',
@@ -111,4 +111,4 @@ const Form = () => {
     )
 }
 
-export default Form;
+export default Form1;

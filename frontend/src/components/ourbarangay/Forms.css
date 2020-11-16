@@ -1,0 +1,46 @@
+#forms {
+  width: 100%;
+  margin: auto;
+  margin-top: 25vh;
+}
+
+#forms h1,
+h2,
+h3 {
+  text-align: center;
+}
+
+#forms h4,
+p {
+  text-align: start;
+}
+
+.forms-form-container {
+  width: 80%;
+  margin: auto;
+  padding: 30px;
+  border-radius: 20px;
+  -webkit-box-shadow: 5px 5px 15px 5px rgba(0, 0, 0, 0.5);
+  box-shadow: 5px 5px 15px 5px rgba(0, 0, 0, 0.5);
+  margin-top: 50px;
+}
+
+#forms .flex-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.form {
+  width: 40%;
+  margin: 20px;
+}
+
+.form a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.center-form {
+  text-align: center;
+}

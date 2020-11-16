@@ -26,12 +26,12 @@ const Nav = () => {
                         Our Barangay
                         </a>
                         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                        <Link to="/history"><a class="dropdown-item" href="#">History</a></Link>
-                        <a class="dropdown-item" href="#">Maps</a>
+                        <Link to="/history"><a class="dropdown-item">History</a></Link>
+                        <Link to="/maps"><a class="dropdown-item disabled">Maps</a></Link>
                         <a class="dropdown-item" href="#">Photo Album</a>
-                        <a class="dropdown-item" href="#">Forms</a>
+                        <Link to="/forms"><a class="dropdown-item">Forms</a></Link>
                         <div class="dropdown-divider"></div>
-                        <a class="dropdown-item" href="#">Contact Us</a>
+                        <Link to="/contact"><a class="dropdown-item" href="#">Contact Us</a></Link>
                         </div>
                     </li>
                     <li class="nav-item dropdown">
