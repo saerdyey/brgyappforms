@@ -1,0 +1,116 @@
+#geninfo {
+  width: 100%;
+  margin: auto;
+  margin-top: 25vh;
+}
+
+#geninfo h1 {
+  text-align: center;
+}
+
+#geninfo .intro-container h1,
+h2,
+p {
+  text-align: start;
+}
+
+#geninfo .intro-container button {
+  border: 0;
+}
+
+.intro-container h2 {
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.intro-container h1 {
+  font-size: 80px;
+  font-weight: bold;
+}
+
+.intro-container p {
+  font-size: 20px;
+}
+
+.geninfo-container {
+  width: 80%;
+  margin: auto;
+  padding: 30px;
+  /* border-radius: 20px;
+  -webkit-box-shadow: 5px 5px 15px 5px rgba(0, 0, 0, 0.5);
+  box-shadow: 5px 5px 15px 5px rgba(0, 0, 0, 0.5); */
+}
+
+.intro-text-container,
+.mv-container,
+.population-container,
+.economy-container {
+  margin: 20px;
+  padding: 30px;
+}
+
+.mv-container h2 {
+  text-align: center;
+}
+
+.mv-boxes {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  margin-top: 40px;
+}
+
+.mv-box {
+  width: 30%;
+}
+
+.mv-box img {
+  width: 280px;
+  height: 180px;
+  border-radius: 5px;
+}
+
+.population-category {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  margin-top: 40px;
+}
+
+.population-category h2,
+p {
+  text-align: center;
+}
+
+.population-household {
+  width: 45%;
+  border-radius: 20px;
+  -webkit-box-shadow: 5px 5px 15px 5px rgba(0, 0, 0, 0.5);
+  box-shadow: 5px 5px 15px 5px rgba(0, 0, 0, 0.5);
+  padding: 20px;
+}
+
+.economy-category {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  margin-top: 40px;
+}
+
+.economy {
+  width: 30%;
+  border-radius: 20px;
+  -webkit-box-shadow: 5px 5px 15px 5px rgba(0, 0, 0, 0.5);
+  box-shadow: 5px 5px 15px 5px rgba(0, 0, 0, 0.5);
+  padding: 20px;
+  margin-bottom: 40px;
+}
+
+.economy-container h2,
+h3 {
+  text-align: center;
+}
+
+.economy-container li {
+  margin-left: 20px;
+}

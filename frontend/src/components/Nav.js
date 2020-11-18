@@ -26,6 +26,7 @@ const Nav = () => {
                         Our Barangay
                         </a>
                         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                        <Link to="/general-info"><a class="dropdown-item">General Info</a></Link>
                         <Link to="/history"><a class="dropdown-item">History</a></Link>
                         <Link to="/maps"><a class="dropdown-item disabled">Maps</a></Link>
                         <a class="dropdown-item" href="#">Photo Album</a>
