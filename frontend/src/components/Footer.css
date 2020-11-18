@@ -8,3 +8,12 @@
   align-items: center;
   padding-top: 20px;
 }
+
+@media screen and (max-width: 768px) and (min-width: 415px) {
+}
+
+@media screen and (max-width: 414px) {
+  #footer p {
+    font-size: 10px;
+  }
+}

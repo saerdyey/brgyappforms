@@ -19,3 +19,21 @@
   -webkit-box-shadow: 5px 5px 15px 5px rgba(0, 0, 0, 0.5);
   box-shadow: 5px 5px 15px 5px rgba(0, 0, 0, 0.5);
 }
+
+.history-pics img {
+  width: 100%;
+  height: auto;
+  border-radius: 5px;
+}
+
+@media screen and (max-width: 768px) and (min-width: 415px) {
+}
+
+@media screen and (max-width: 414px) {
+  #history {
+    margin-top: 15vh;
+  }
+  .history-container {
+    padding: 10px;
+  }
+}

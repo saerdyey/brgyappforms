@@ -12,7 +12,7 @@ const GeneralInfo = () => {
                 <div className="intro-container">
                     <h2>FIRST WORLD BARANGAY</h2>
                     <h1>BARANGAY</h1>
-                    <h1>HOLT SPIRIT,</h1>
+                    <h1>HOLY SPIRIT,</h1>
                     <h1>QUEZON CITY</h1>
                     <p>will continue to be a world class barangay and a model of exemplary governance within Quezon City…</p>
                     <button><a class="btn btn-outline-info my-2 my-sm-0" href="#">Mission and Vision</a></button>
@@ -30,17 +30,20 @@ const GeneralInfo = () => {
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras et dolor metus. Sed a luctus est, a molestie metus. Sed faucibus tortor in condimentum porttitor. Ut ut vulputate sapien, ac convallis diam. Integer ac justo rutrum, suscipit purus vel, tristique libero. Nullam vitae neque lorem. Nullam nec euismod lorem. Donec quis egestas ante. Vivamus vehicula augue faucibus justo eleifend auctor. Donec euismod purus quis sem faucibus imperdiet.</p>
                     <div className="mv-boxes">
                         <div className="mv-box">
-                            <img src={rm1} alt=""/>
+                            <div className="mv-pics"><img src={rm1} alt=""/></div>
+                            
                             <h3>Enviroment</h3>
                             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras et dolor metus. Sed a luctus est, a molestie metus. Sed faucibus tortor in condimentum porttitor.</p>
                         </div>
                         <div className="mv-box">
-                            <img src={rm2} alt=""/>
+                        <div className="mv-pics"><img src={rm2} alt=""/></div>
+                            
                             <h3>Social Services</h3>
                             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras et dolor metus. Sed a luctus est, a molestie metus. Sed faucibus tortor in condimentum porttitor. Ut ut vulputate sapien, ac convallis diam. Integer ac justo rutrum, suscipit purus vel, tristique libero. Nullam vitae neque lorem. Nullam nec euismod lorem. Donec quis egestas ante. Vivamus vehicula augue faucibus justo eleifend auctor. Donec euismod purus quis sem faucibus imperdiet.</p>
                         </div>
                         <div className="mv-box">
-                            <img src={rm3} alt=""/>
+                        <div className="mv-pics"><img src={rm3} alt=""/></div>
+                            
                             <h3>Community Development</h3>
                             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras et dolor metus. Sed a luctus est, a molestie metus. Sed faucibus tortor in condimentum porttitor. Ut ut vulputate sapien, ac convallis diam. Integer ac justo rutrum, suscipit purus vel, tristique libero. Nullam vitae neque lorem. Nullam nec euismod lorem.</p>
                         </div>
