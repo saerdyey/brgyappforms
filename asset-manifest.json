@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/brgyappforms/static/css/main.419fd5ca.chunk.css",
+    "main.js": "/brgyappforms/static/js/main.19120ad5.chunk.js",
+    "main.js.map": "/brgyappforms/static/js/main.19120ad5.chunk.js.map",
+    "runtime-main.js": "/brgyappforms/static/js/runtime-main.6d704dc3.js",
+    "runtime-main.js.map": "/brgyappforms/static/js/runtime-main.6d704dc3.js.map",
+    "static/js/2.89d35df3.chunk.js": "/brgyappforms/static/js/2.89d35df3.chunk.js",
+    "static/js/2.89d35df3.chunk.js.map": "/brgyappforms/static/js/2.89d35df3.chunk.js.map",
+    "static/js/3.caf74750.chunk.js": "/brgyappforms/static/js/3.caf74750.chunk.js",
+    "static/js/3.caf74750.chunk.js.map": "/brgyappforms/static/js/3.caf74750.chunk.js.map",
+    "index.html": "/brgyappforms/index.html",
+    "static/css/main.419fd5ca.chunk.css.map": "/brgyappforms/static/css/main.419fd5ca.chunk.css.map",
+    "static/js/2.89d35df3.chunk.js.LICENSE.txt": "/brgyappforms/static/js/2.89d35df3.chunk.js.LICENSE.txt",
+    "static/media/holyspirit-logo.8459dabc.png": "/brgyappforms/static/media/holyspirit-logo.8459dabc.png",
+    "static/media/home-pic1.72a818d0.jpg": "/brgyappforms/static/media/home-pic1.72a818d0.jpg",
+    "static/media/rm1.a97e92ff.png": "/brgyappforms/static/media/rm1.a97e92ff.png",
+    "static/media/rm2.2c043f87.jpg": "/brgyappforms/static/media/rm2.2c043f87.jpg",
+    "static/media/rm3.a4514006.png": "/brgyappforms/static/media/rm3.a4514006.png",
+    "static/media/rm4.148cc73b.jpg": "/brgyappforms/static/media/rm4.148cc73b.jpg",
+    "static/media/rm5.536e1421.jpg": "/brgyappforms/static/media/rm5.536e1421.jpg",
+    "static/media/rm6.8d5f60fd.jpg": "/brgyappforms/static/media/rm6.8d5f60fd.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6d704dc3.js",
+    "static/js/2.89d35df3.chunk.js",
+    "static/css/main.419fd5ca.chunk.css",
+    "static/js/main.19120ad5.chunk.js"
+  ]
+}
