@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/brgyappforms/static/css/main.419fd5ca.chunk.css",
-    "main.js": "/brgyappforms/static/js/main.19120ad5.chunk.js",
-    "main.js.map": "/brgyappforms/static/js/main.19120ad5.chunk.js.map",
+    "main.css": "/brgyappforms/static/css/main.b3102ad1.chunk.css",
+    "main.js": "/brgyappforms/static/js/main.85927b0b.chunk.js",
+    "main.js.map": "/brgyappforms/static/js/main.85927b0b.chunk.js.map",
     "runtime-main.js": "/brgyappforms/static/js/runtime-main.6d704dc3.js",
     "runtime-main.js.map": "/brgyappforms/static/js/runtime-main.6d704dc3.js.map",
     "static/js/2.89d35df3.chunk.js": "/brgyappforms/static/js/2.89d35df3.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.caf74750.chunk.js": "/brgyappforms/static/js/3.caf74750.chunk.js",
     "static/js/3.caf74750.chunk.js.map": "/brgyappforms/static/js/3.caf74750.chunk.js.map",
     "index.html": "/brgyappforms/index.html",
-    "static/css/main.419fd5ca.chunk.css.map": "/brgyappforms/static/css/main.419fd5ca.chunk.css.map",
+    "static/css/main.b3102ad1.chunk.css.map": "/brgyappforms/static/css/main.b3102ad1.chunk.css.map",
     "static/js/2.89d35df3.chunk.js.LICENSE.txt": "/brgyappforms/static/js/2.89d35df3.chunk.js.LICENSE.txt",
     "static/media/holyspirit-logo.8459dabc.png": "/brgyappforms/static/media/holyspirit-logo.8459dabc.png",
     "static/media/home-pic1.72a818d0.jpg": "/brgyappforms/static/media/home-pic1.72a818d0.jpg",
@@ -24,7 +24,7 @@
   "entrypoints": [
     "static/js/runtime-main.6d704dc3.js",
     "static/js/2.89d35df3.chunk.js",
-    "static/css/main.419fd5ca.chunk.css",
-    "static/js/main.19120ad5.chunk.js"
+    "static/css/main.b3102ad1.chunk.css",
+    "static/js/main.85927b0b.chunk.js"
   ]
 }
