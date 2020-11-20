@@ -18,12 +18,12 @@ class App extends React.Component{
         <div className="App">
             <Nav/>
             <Switch>
-              <Route path="/" exact component={Home}/>
-              <Route path="/general-info" exact component={GeneralInfo}/>
-              <Route path="/history" exact component={History}/>
-              <Route path="/maps" exact component={Maps}/>
-              <Route path="/forms" exact component={Forms}/>
-              <Route path="/contact" exact component={Contact}/>
+              <Route path="/brgyappforms" exact component={Home}/>
+              <Route path="/brgyappforms/general-info" exact component={GeneralInfo}/>
+              <Route path="/brgyappforms/history" exact component={History}/>
+              <Route path="/brgyappforms/maps" exact component={Maps}/>
+              <Route path="/brgyappforms/forms" exact component={Forms}/>
+              <Route path="/brgyappforms/contact" exact component={Contact}/>
             </Switch>
         </div>
         <Footer/>
