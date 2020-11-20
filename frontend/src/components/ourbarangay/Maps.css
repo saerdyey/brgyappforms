@@ -48,6 +48,20 @@ iframe {
 }
 
 @media screen and (max-width: 768px) and (min-width: 415px) {
+  #maps h2 {
+    text-align: center;
+  }
+  #maps p {
+    text-align: center;
+  }
+  #maps {
+    margin-top: 12vh;
+  }
+
+  .maps-container {
+    width: 85%;
+    padding: 10px;
+  }
 }
 
 @media screen and (max-width: 414px) {
